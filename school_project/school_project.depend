@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1666861775 source:d:\nti\school_project\func.c
+	<stdio.h>
+	"HEADER.h"
+
+1666860227 source:d:\nti\school_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HEADER.h"
+
+1666598900 d:\nti\school_project\header.h
+
+1676632819 source:d:\nti\c\school_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HEADER.h"
+
+1676632648 d:\nti\c\school_project\header.h
+
+1676632631 source:d:\nti\c\school_project\helper_func.c
+
+1676632781 source:d:\nti\c\school_project\func.c
+	<stdio.h>
+	"HEADER.h"
+
